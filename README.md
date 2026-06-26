@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abdullah-nasrullah-0b0100299">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:abdullahnasarullah9595@gmailcom">
+  <a href="mailto:abdullahnasarullah9595@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AbdullahNasrullah10937&style=flat&color=blue" />
