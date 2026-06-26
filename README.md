@@ -46,7 +46,7 @@ sensors, ML classifiers, and a bilingual chatbot.
 | [MediQ — Doctor Booking App](https://github.com/AbdullahNasrullah10937/Doctor_Appointment_Booking_MobileApplication-) | AI symptom checker + live token queue system | Flutter, Firebase, Groq |
 | [Cats vs Dogs CNN](https://github.com/AbdullahNasrullah10937/cats-vs-dogs-Image-prediction-) | Custom CNN with 84% accuracy + Canny edge detection | Python, TensorFlow, OpenCV |
 | [Hostel Management System](https://github.com/AbdullahNasrullah10937/Hostel-Management-System-using-Node.js-) | Full-stack hostel admin portal | Node.js, JavaScript |
-| [Mother's Room Finder](https://github.com/AbdullahNasrullah10937/Mother-s-Room-Finder-Flutter-Mobile-App) | Map-based facility comparison app for mothers | Flutter, Maps API |
+| [Mother's Room Finder]([https://github.com/AbdullahNasrullah10937/Mother-s-Room-Finder-Flutter-Mobile-App](https://github.com/AbdullahNasrullah10937/nurture-nest)) | Map-based facility comparison app for mothers | Flutter, Maps API |
 
 ---
 
